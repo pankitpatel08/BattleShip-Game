@@ -1,0 +1,7 @@
+F:\Project\BattleShipChallenge\BattleShipChallenge\bin\Debug\BattleShipChallenge.exe.config
+F:\Project\BattleShipChallenge\BattleShipChallenge\bin\Debug\BattleShipChallenge.exe
+F:\Project\BattleShipChallenge\BattleShipChallenge\bin\Debug\BattleShipChallenge.pdb
+F:\Project\BattleShipChallenge\BattleShipChallenge\obj\Debug\BattleShipChallenge.exe
+F:\Project\BattleShipChallenge\BattleShipChallenge\obj\Debug\BattleShipChallenge.pdb
+F:\Project\BattleShipChallenge\BattleShipChallenge\obj\Debug\BattleShipChallenge.csprojAssemblyReference.cache
+F:\Project\BattleShipChallenge\BattleShipChallenge\obj\Debug\BattleShipChallenge.csproj.CoreCompileInputs.cache
